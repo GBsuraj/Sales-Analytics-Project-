@@ -17,21 +17,21 @@ In the context of the Superstore Sales Dashboard, the aim is to address several 
 ## Key Findings
 
 **1. Category:**
-   - The Technology category has the highest sales with $2,840K, yet it is not the leading category in terms of the year-on-year growth percentage.
-   - Furniture follows closely with $2,755K in sales but leads the growth with a 21.44% increase year over year, indicating a significant growth trend.
-   - Office Supplies shows less revenue compared to other categories with $732K, so there may be an opportunity to explore strategies to bolster sales in this segment.
+   - The Technology category has the highest sales with 2,840K, yet it is not the leading category in terms of the year-on-year growth percentage.
+   - Furniture follows closely with 2,755K in sales but leads the growth with a 21.44% increase year over year, indicating a significant growth trend.
+   - Office Supplies shows less revenue compared to other categories with 732K, so there may be an opportunity to explore strategies to bolster sales in this segment.
 
 **2. Segment:**
-   - The consumer segment dominates with a major portion of sales at $2,2614K, approximately 50% of total sales, indicating strong market penetration in this demographic.
-   - Corporate sales are also significant at $2,716K, accounting for 31% of total sales, suggesting that B2B relationships are well-established.
+   - The consumer segment dominates with a major portion of sales at 2,2614K, approximately 50% of total sales, indicating strong market penetration in this demographic.
+   - Corporate sales are also significant at 2,716K, accounting for 31% of total sales, suggesting that B2B relationships are well-established.
    - The home office segment contributes less to total sales, which suggests either a smaller market size or an area for growth.
 
 **3. Top 5 Selling Products:**
-   - “Canon imageCLASS 2200 Advanced Copier” is a standout product with $262K in sales, indicating strong demand in the technology equipment space.
+   - “Canon imageCLASS 2200 Advanced Copier” is a standout product with 262K in sales, indicating strong demand in the technology equipment space.
    - The presence of items like “Fellowes PBS00 Electric Punch Plastic Comb Binding Machine” and “GBC DocuBind TL300 Electric Binding System” among the top sellers underscores the importance of office utilities and technologies.
 
 **4. Total Orders and Monthly Trend :**
-   - There has been a steady increase in total sales from November 2018, peaking in May 2022 at $3,118K before a slight decline in November 2022, which could be seasonal or indicate a market shift.
+   - There has been a steady increase in total sales from November 2018, peaking in May 2022 at 3,118K before a slight decline in November 2022, which could be seasonal or indicate a market shift.
    - The YoY (Year over Year) growth is positive (21.44%), showing overall healthy expansion of the business.
 
 **5. Customer Purchase Patterns:**
