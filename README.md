@@ -9,10 +9,10 @@ In the context of the Superstore Sales Dashboard, the aim is to address several 
 
 ## Snapshots
 ### Sales overview
-![Screenshot (74)](https://github.com/GBsuraj/Superstore_Sales-Analytics-Project-/assets/99246520/deec07bc-45ab-4195-862f-3f2760617c8c)
+![Screenshot (76)](https://github.com/GBsuraj/Superstore_Sales-Analytics-Project-/assets/99246520/00cc1bef-5871-40ad-a505-c72ac595c5d7)
 
 ###  Order details
-![Screenshot (75)](https://github.com/GBsuraj/Superstore_Sales-Analytics-Project-/assets/99246520/a7071c15-d17c-49fe-81cf-5bb277390f69)
+![Screenshot (77)](https://github.com/GBsuraj/Superstore_Sales-Analytics-Project-/assets/99246520/2ffbf417-75cd-4883-b2b2-a3aec5dbecd8)
 
 ## Key Findings
 
