@@ -1,5 +1,5 @@
 
-# Superstore Sales Dashboard-Analytics
+# Superstore Sales Analytics-Dashboard
 
 ## Dashboard Link : https://public.tableau.com/app/profile/suraj.godambe/viz/SuperstoreSalesAnalytics_17022258079610/Dashboard1
 
