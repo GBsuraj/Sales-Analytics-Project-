@@ -11,7 +11,7 @@ In the context of the Superstore Sales Dashboard, the aim is to address several 
 ### Sales overview
 ![Screenshot (76)](https://github.com/GBsuraj/Superstore_Sales-Analytics-Project-/assets/99246520/00cc1bef-5871-40ad-a505-c72ac595c5d7)
 
-###  Order details
+###  Customer details
 ![Screenshot (77)](https://github.com/GBsuraj/Superstore_Sales-Analytics-Project-/assets/99246520/2ffbf417-75cd-4883-b2b2-a3aec5dbecd8)
 
 ## Key Findings
